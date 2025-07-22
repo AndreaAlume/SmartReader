@@ -7,7 +7,7 @@ io abbia la possibilità di:
 
 1. [cercare i sinonimi](#3-ricerca-sinonimi-e-contrari)
 2. [cercare i contrari](#3-ricerca-sinonimi-e-contrari)
-3. [spiegare il significato di una frase](#4-spiegazione-e-parafrasi-di-una-frase)
+3. [spiegare il significato di una parola e/o frase](#4-spiegazione-e-parafrasi-di-una-parola-e-o-frase)
 4. [fornire modi diversi per riscrivere la stessa frase](#4-spiegazione-e-parafrasi-di-una-frase)
 5. [aggiungere delle note a bordo pagina con dei riferimenti alla singola parola o al paragrafo](#5-note)
 6. [mostrare l'origine e l'etimologia delle parole](#6-origine-ed-etimologia-parole)
@@ -33,7 +33,9 @@ In base alla opzione scelta dall'utente verranno restituiti diversi dati sempre 
 
 ### 3. Ricerca sinonimi e contrari
 
-### 4. Spiegazione e parafrasi di una frase
+Dopo aver selezionato la parola e aver cliccato sull'azione di ricerca per sinonimi o contrari il programma dovrà restituire tali risultati in maniera chiara e separata.
+
+### 4. Spiegazione e parafrasi di una parola e/o frase
 
 ### 5. Note
 
